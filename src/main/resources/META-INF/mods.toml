@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GPLv3"
+[[mods]]
+modId="cults"
+version="${file.jarVersion}"
+displayName="Cults"
+authors="DavidQF555"
+description='''
+Adds cults into the world.
+'''
